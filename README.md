@@ -1,5 +1,5 @@
 # CrawlerCommentsBondfaro
 Crawler de comentários no bondfaro
 
-# Requirments
+# Requirements
 pip install scrapy
